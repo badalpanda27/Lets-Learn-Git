@@ -4,5 +4,5 @@ public class Diff{
         int a = 5;
         int b = 6;
 
-        System.out.println("The Division is "+ (a/b));
+        System.out.println("The division is "+ (a/b));
 }
